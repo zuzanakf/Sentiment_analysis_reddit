@@ -76,3 +76,4 @@ climb_df.head()
 #counting up 
 climb_df.label.value_counts()
 sns.histplot(climb_df.label)
+
