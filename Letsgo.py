@@ -1,3 +1,5 @@
+#inspo
+#https://medium.com/bitgrit-data-science-publication/sentiment-analysis-on-reddit-tech-news-with-python-cbaddb8e9bb6
 #Load libaries
 import pandas as pd
 import numpy as np
